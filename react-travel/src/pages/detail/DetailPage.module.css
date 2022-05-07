@@ -1,0 +1,17 @@
+.product-intro-container {
+    margin-top: 20px;
+    background-color: white;
+}
+
+.product-detail-anchor {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.product-detail-container {
+    background-color: white;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
